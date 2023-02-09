@@ -246,6 +246,10 @@ th {
   margin: 2em auto;
 }
 
+.main {
+  margin-left: 50px;
+}
+
 @media screen and (max-width: 480px) {
   .caixa,
   .principal,
